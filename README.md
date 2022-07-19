@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About me
 
-I'm a Frontend Web Developer interested in developing new things and help to grow interesting projects. I love to explore new technologies and being a practitioner
+I'm a Frontend Web Developer interested in developing new things and help to grow interesting projects. Always learning.
 
 ## Languages and tools:
 
