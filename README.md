@@ -1,22 +1,50 @@
-# Hi there, I'm Edu! 👽
+<h1 align="center"> Hi there, I'm Edu! 👽 </h1>
 
-## 🙋‍♂️ About me
+<div id="social" align="center">
+  <a href="https://www.linkedin.com/in/edu2andrade/" target="_blank" data-description="LinkedIn" data-fontawesome-unicode-icon="f08c" data-color="#0a66c2"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
+  <a href="mailto:edu2andrade@gmail.com" target="_blank" data-description="Mail" data-fontawesome-unicode-icon="f08c" data-color="#0a66c2"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:edu2andrade@gmail.com" alt="Gmail" target="_blank"></a>
+</div>
 
-I'm a Frontend Web Developer interested in developing new things and help to grow interesting projects. Always learning.
+<br>
 
-## Languages and tools:
+Passei toda uma vida ligado ao desporto, desde o vôlei (como jogador e treinador), ao Personal Training que foi a última profissão antes de iniciar essa aventura pelas novas tecnologias que, sempre foi uma paixão! Desde os games até as tentativas falhadas na Engenharia Informática (sim, já estive lá 2 vezes :D ), os computadores e consoles sempre estiveram presentes na minha vida.
 
-<a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://camo.githubusercontent.com/91624b4794cb98081ea55063865721be4b4399472c81e66b89b37fd07aad1d92/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/html-5.png" style="width: 2rem;"> </a>
-<a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://camo.githubusercontent.com/dc75aee770dff630309493116eeebd6a39c7042e4e94780a5e6c8f107bebe76f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f637373332e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/css3.png" style="width: 2rem;"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://camo.githubusercontent.com/da839b79b282a7658a172f07e13496fb18bcf9fa624d061def0e80f47a68ff1d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/javascript.png" style="width: 2rem;"> </a>
-<a href="https://reactjs.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/38b72f440cbf774558b9399b27bf659066e94b1eddc4510a9607ced1f028f6d0/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656163742d6e61746976652e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/react-native.png" style="width: 2rem;"> </a>
-<a href="https://nodejs.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/03899ca15bc7682cad570e2638be85926777122dce4b90151d5efc897660d5cd/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6e6f64656a732e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/nodejs.png" style="width: 2rem;"> </a>
+E o desenvolvimento web começou porque estava desenvolvendo páginas com Wordpress + Elementor e surgiu a necessidade de me aprofundar mais… Entender e escrever meu próprio código, e foi assim que fui buscar o “como” fazer isso…
 
+Meu foco inicial foi aprender HTML, CSS e Javascript, logo a transição para o React, NextJS e Typescript foi natural. Tenho buscado me especializar nestas tecnologias para conseguir resolver problemas cada vez mais complexos. 
+
+Atualmente trabalho com investigação científica na área do desporto e paralelamente a isso estudo React, React Native e Node, e tenho muita curiosidade pelo Rust, será o próximo? 
+
+##
+
+I spent a lifetime connected to sports, from volleyball (as a player and coach), to Personal Training which was the last profession before starting this adventure through new technologies, that has always been a passion! 
+
+From games to failed attempts at Computer Engineering (yes, I've been there 2 times :D), computers and consoles have always been present in my life. 
+
+Web Development began because I was developing websites with Wordpress + Elementor and… You know that feeling, when you need to go deeper? That’s it. I feel that I need to understand more and write my own code, and that's how I’m on this journey now… and I love it! 
+
+My initial focus was to learn HTML, CSS and Javascript, so the transition to React, NextJS and Typescript was natural. So, today I’m currently specialising even more in these technologies to be able to solve increasingly complex problems. 
+
+Currently I work with scientific research in the field of sports and parallel to this, study React, React Native and Node, and I'm very curious about Rust, will be next?
+
+<div align="center">
+  <img align="center" alt="HTML" title="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" title="CSS 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Sass" title="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="TailwindCSS" title="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Next" title="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="JamStack" title="JamStack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jamstack/jamstack-original.svg">
+  <img align="center" alt="NodeJS" title="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+</div>
 
 ---
 
-## How to reach me:
-
-[![Gmail Badge](https://img.shields.io/badge/-edu2andrade@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edu2andrade@gmail.com)](mailto:edu2andrade@gmail.com)
-
-[![LinkedIN Badge](https://img.shields.io/badge/edu2andrade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edu2andrade/)
+<div align="center">
+  <a href="https://github.com/edu2andrade" onmouseover="this.style.textDecoration='none'">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu2andrade&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu2andrade&layout=compact&langs_count=7&theme=omni" />
+  </a>  
+</div> 
