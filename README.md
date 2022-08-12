@@ -7,16 +7,6 @@
 
 <br>
 
-Passei toda uma vida ligado ao desporto, desde o vôlei (como jogador e treinador), ao Personal Training que foi a última profissão antes de iniciar essa aventura pelas novas tecnologias que, sempre foi uma paixão! Desde os games até as tentativas falhadas na Engenharia Informática (sim, já estive lá 2 vezes :D ), os computadores e consoles sempre estiveram presentes na minha vida.
-
-E o desenvolvimento web começou porque estava desenvolvendo páginas com Wordpress + Elementor e surgiu a necessidade de me aprofundar mais… Entender e escrever meu próprio código, e foi assim que fui buscar o “como” fazer isso…
-
-Meu foco inicial foi aprender HTML, CSS e Javascript, logo a transição para o React, NextJS e Typescript foi natural. Tenho buscado me especializar nestas tecnologias para conseguir resolver problemas cada vez mais complexos. 
-
-Atualmente trabalho com investigação científica na área do desporto e paralelamente a isso estudo React, React Native e Node, e tenho muita curiosidade pelo Rust, será o próximo? 
-
-##
-
 I spent a lifetime connected to sports, from volleyball (as a player and coach), to Personal Training which was the last profession before starting this adventure through new technologies, that has always been a passion! 
 
 From games to failed attempts at Computer Engineering (yes, I've been there 2 times :D), computers and consoles have always been present in my life. 
