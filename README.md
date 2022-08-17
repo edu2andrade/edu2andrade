@@ -7,15 +7,15 @@
 
 <br>
 
-I spent a lifetime connected to sports, from volleyball (as a player and coach), to Personal Training which was the last profession before starting this adventure through new technologies, that has always been a passion! 
+I spent a lifetime connected to sports, from volleyball (as a player and coach) to Personal Training which was the last profession before starting this adventure through new technologies, that has always been a passion!
 
-From games to failed attempts at Computer Engineering (yes, I've been there 2 times :D), computers and consoles have always been present in my life. 
+From games to failed attempts at Computer Engineering (yes, I've been there 2 times :D), computers and consoles have always been present in my life.
 
-Web Development began because I was developing websites with Wordpress + Elementor and… You know that feeling, when you need to go deeper? That’s it. I feel that I need to understand more and write my own code, and that's how I’m on this journey now… and I love it! 
+Web Development began because I was developing websites with WordPress + Elementor and… You know that feeling when you need to go deeper? That’s it. I feel that I need to understand more and write my own code, and that's how I’m on this journey now… and I love it!
 
-My initial focus was to learn HTML, CSS and Javascript, so the transition to React, NextJS and Typescript was natural. So, today I’m currently specialising even more in these technologies to be able to solve increasingly complex problems. 
+My initial focus was to learn HTML, CSS and Javascript, so the transition to React, NextJS and Typescript were natural. So, today I’m currently specialising even more in these technologies to be able to solve increasingly complex problems.
 
-Currently I work with scientific research in the field of sports and parallel to this, study React, React Native and Node, and I'm very curious about Rust, will be next?
+Currently, I work with scientific research in the field of health and sports, and parallel to this, study React, React Native and Node, and I'm very curious about Rust, will be next?
 
 <div align="center">
   <img align="center" alt="HTML" title="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
