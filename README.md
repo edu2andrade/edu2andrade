@@ -11,7 +11,7 @@ I spent a lifetime connected to sports, from volleyball (as a player and coach) 
 
 From games to failed attempts at Computer Engineering (yes, I've been there 2 times :D), computers and consoles have always been present in my life.
 
-Web Development began because I was developing websites with WordPress + Elementor and… You know that feeling when you need to go deeper? That’s it. I feel that I need to understand more and write my own code, and that's how I’m on this journey now… and I love it!
+Web Development began because I was developing websites with WordPress + Elementor and… Do you know that feeling when you need to go deeper? That’s it. I feel that I need to understand more and write my own code, and that's how I’m on this journey now… and I love it!
 
 My initial focus was to learn HTML, CSS and Javascript, so the transition to React, NextJS and Typescript were natural. So, today I’m currently specialising even more in these technologies to be able to solve increasingly complex problems.
 
