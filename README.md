@@ -15,7 +15,7 @@ Web Development began because I was developing websites with WordPress + Element
 
 My initial focus was to learn HTML, CSS and Javascript, so the transition to React, NextJS and Typescript were natural. So, today I’m currently specialising even more in these technologies to be able to solve increasingly complex problems.
 
-Currently, I work with scientific research in the field of health and sports, and parallel to this, study React, React Native and Node, and I'm very curious about Rust, will be next?
+Currently, I work with scientific research in the field of health and sports, and parallel to this, study React, React Native and Node.
 
 <div align="center">
   <img align="center" alt="HTML" title="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
