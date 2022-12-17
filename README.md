@@ -7,15 +7,9 @@
 
 <br>
 
-I spent a lifetime connected to sports, from volleyball (as a player and coach) to Personal Training which was the last profession before starting this adventure through new technologies, that has always been a passion!
+My name is Eduardo Andrade and I'm a Web Developer. I spent a lifetime connected to sports, from volleyball to Personal Training, which was my last profession before restarting this adventure through new technologies.
 
-From games to failed attempts at Computer Engineering (yes, I've been there 2 times :D), computers and consoles have always been present in my life.
-
-Web Development began because I was developing websites with WordPress + Elementor and… Do you know that feeling when you need to go deeper? That’s it. I feel that I need to understand more and write my own code, and that's how I’m on this journey now… and I love it!
-
-My initial focus was to learn HTML, CSS and Javascript, so the transition to React, NextJS and Typescript were natural. So, today I’m currently specialising even more in these technologies to be able to solve increasingly complex problems.
-
-Currently, I work with scientific research in the field of health and sports, and parallel to this, study React, React Native and Node.
+Currently I work as a Freelancer bringing projects to life with Figma, React, NextJS and Node for the web, and React Native for mobile apps. I'm always studying and specialising in these technologies to deliver the best results. 
 
 <div align="center">
   <img align="center" alt="HTML" title="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
