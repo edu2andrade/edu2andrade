@@ -7,21 +7,23 @@
 
 <br>
 
-My name is Eduardo Andrade and I'm a Web Developer. I spent a lifetime connected to sports, from volleyball to Personal Training, which was my last profession before restarting this adventure through new technologies.
+My name is Eduardo Andrade and I'm a Fullstack Developer. I spent a lifetime connected to sports, from volleyball to Personal Training, which was my last profession before restarting this adventure through new technologies.
 
-Currently I work as a Freelancer bringing projects to life with Figma, React, NextJS and Node for the web, and React Native for mobile apps. I'm always studying and specialising in these technologies to deliver the best results. 
+Currently, I work as a Frontend Developer bringing projects to life with React and NextJS. I'm always studying and specialising to deliver the best results.
+
+Never stop learning!
+
+Let's talk?
 
 <div align="center">
   <img align="center" alt="HTML" title="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Sass" title="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="TailwindCSS" title="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next" title="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="JamStack" title="JamStack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jamstack/jamstack-original.svg">
   <img align="center" alt="NodeJS" title="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 </div>
 
 ---
