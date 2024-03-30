@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Edu! 👽 </h1>
+<h1 align="center"> Hi, I'm Edu! 👽 </h1>
 
 <div id="social" align="center">
   <a href="https://www.linkedin.com/in/edu2andrade/" target="_blank" data-description="LinkedIn" data-fontawesome-unicode-icon="f08c" data-color="#0a66c2"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
@@ -7,9 +7,9 @@
 
 <br>
 
-My name is Eduardo Andrade and I'm a Fullstack Developer. I spent a lifetime connected to sports, from volleyball to Personal Training, which was my last profession before restarting this adventure through new technologies.
+I spent a lifetime connected to sports, from volleyball to Personal Training, which was my last profession before restarting this adventure through new technologies.
 
-Currently, I work as a Frontend Developer bringing projects to life with React and NextJS. I'm always studying and specialising to deliver the best results.
+Currently, I work as a Fullstack Developer bringing projects to life with React and NextJS. I'm always studying and specialising to deliver the best results.
 
 Never stop learning!
 
